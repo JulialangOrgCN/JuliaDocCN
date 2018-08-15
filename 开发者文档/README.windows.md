@@ -59,9 +59,9 @@ Windows上编译Julia推荐[Cygwin](http://www.cygwin.com)交叉编译，所用�
 
     高级——通过命令行运行可以跳过二到四步骤：
 
-        setup-x86_64.exe -s &lt;url&gt; -q -P cmake,gcc-g++,git,make,patch,curl,m4,python,p7zip,mingw64-i686-gcc-g++,mingw64-i686-gcc-fortran,mingw64-x86_64-gcc-g++,mingw64-x86_64-gcc-fortran
+        setup-x86_64.exe -s <url> -q -P cmake,gcc-g++,git,make,patch,curl,m4,python,p7zip,mingw64-i686-gcc-g++,mingw64-i686-gcc-fortran,mingw64-x86_64-gcc-g++,mingw64-x86_64-gcc-fortran
 
-        把url替换为Cygwin的[镜像](https://cygwin.com/mirrors.html)，或先手动执行setup选择一个镜像。
+    把url替换为Cygwin的[镜像](https://cygwin.com/mirrors.html)，或先手动执行setup选择一个镜像。
 
 - 二、选择安装位置及下载镜像
 
