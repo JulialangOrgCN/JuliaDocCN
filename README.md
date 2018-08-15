@@ -155,3 +155,7 @@ Julia官文中文（简体）译本。
   - GDB调试秘诀
   - 结合Valgrind
   - 错误检测（Sanitizer）支持
+
+## 未归档的
+
+  - [构建Windows版本](./开发者文档/README.windows.md)
