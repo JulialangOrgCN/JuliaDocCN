@@ -14,6 +14,10 @@ Julia官文中文（简体）译本。
   - JulialangOrgCN - [朱华社区](http://julialang.org.cn/)
   - Julia - 茱莉亚、祝丽、猪吏
   - 群众 - 眸子雪亮的人
+- 插图
+  - Windows 10上Julia REPL
+- 资源
+ - [完整演示代码](https://github.com/JulialangOrgCN/howtojulia "HowtoJulia")
 
 ---
 
@@ -35,7 +39,7 @@ Julia官文中文（简体）译本。
 
 ## 手册
 
-- 上手
+- [上手](./手册/上手.md "Getting Started")
 - 变量
 - 整型数字和浮点型数字
 - 算术操作符和基本函数
