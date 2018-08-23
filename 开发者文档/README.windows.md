@@ -131,7 +131,7 @@ Windows上编译Julia推荐[Cygwin](http://www.cygwin.com)交叉编译，所用�
 
 注意：在WSL中编译，需要用Linux文件系统环境，而不能是“/mnt/”模拟Windows路径，因为“/mnt/”下[时间戳不能正常工作](https://github.com/Microsoft/BashOnWindows/issues/1939)，却是配置脚本和.mk必须的。
 
-为了做大成都兼容包，使用[WinRPM.jl](https://github.com/JuliaLang/WinRPM.jl)解决Windows上的二进制依赖，非常推荐用OpenSUSE 42.2来交叉编译一个Windows版本的Julia。
+为了最大程度兼容包，使用[WinRPM.jl](https://github.com/JuliaLang/WinRPM.jl)解决Windows上的二进制依赖，非常推荐用OpenSUSE 42.2来交叉编译一个Windows版本的Julia。
 
 如果是别的Linux发行版或Max OS X，安装[Vagrant](http://www.vagrantup.com/downloads)并采用下述Vagrantfile。
 

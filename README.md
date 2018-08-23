@@ -12,7 +12,7 @@ Julia官文中文（简体）译本。
   - *内涵* - 胸无成竹
 - 词汇
   - JulialangOrgCN - [朱华社区](http://julialang.org.cn/)
-  - Julia - 茱莉亚、祝丽、猪吏
+  - Julia - 茱莉亚（雅|娅）、祝丽、猪吏、主力
   - 群众 - 眸子雪亮的人
 - 插图
   - Windows 10上Julia REPL
@@ -41,7 +41,7 @@ Julia官文中文（简体）译本。
 ## 手册
 
 - [上手](./手册/上手.md "Getting Started")
-- 变量
+- [变量](./手册/变量.md "Variables")
 - 整型数字和浮点型数字
 - 算术操作符和基本函数
 - 复数和有理数
