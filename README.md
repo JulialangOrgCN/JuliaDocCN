@@ -1,5 +1,5 @@
 # JuliaDocCN
-Julia官文中文（简体）译本。
+Julia官文中文（简体）译本（**不止**）。
 
 **It is never too late to start right now.**
 
@@ -42,7 +42,7 @@ Julia官文中文（简体）译本。
 
 - [上手](./手册/上手.md "Getting Started")
 - [变量](./手册/变量.md "Variables")
-- 整型数字和浮点型数字
+- [整型数字和浮点型数字](./手册/整型数字和浮点型数字.md "Integers and Floating-Point Numbers")
 - 算术操作符和基本函数
 - 复数和有理数
 - 字符串
