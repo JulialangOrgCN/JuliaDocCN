@@ -44,8 +44,8 @@ Julia官文中文（简体）译本（**不止**）。
 - [变量](./手册/变量.md "Variables")
 - [整型数字和浮点型数字](./手册/整型数字和浮点型数字.md "Integers and Floating-Point Numbers")
 - [算术操作符和基本函数](./手册/算术操作和基本函数.md "Mathematical Operations and Elementary Functions")
-- 复数和有理数
-- 字符串
+- [复数和有理数](./手册/复数和有理数.md "Complex and Rational Numbers")
+- [字符串](./手册/字符串.md "Strings")
 - 函数
 - 控制流
 - 变量的作用域
