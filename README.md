@@ -46,7 +46,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [算术操作符和基本函数](./手册/算术操作和基本函数.md "Mathematical Operations and Elementary Functions")
 - [复数和有理数](./手册/复数和有理数.md "Complex and Rational Numbers")
 - [字符串](./手册/字符串.md "Strings")
-- 函数
+- [函数](./手册/类型.md "Types")
 - 控制流
 - 变量的作用域
 - 类型
