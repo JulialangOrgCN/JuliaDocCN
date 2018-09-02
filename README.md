@@ -47,7 +47,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [复数和有理数](./手册/复数和有理数.md "Complex and Rational Numbers")
 - [字符串](./手册/字符串.md "Strings")
 - [函数](./手册/函数.md "Functions")
-- 控制流
+- [控制流](./手册/控制流.md "Control Flow")
 - 变量的作用域
 - 类型
 - 方法
