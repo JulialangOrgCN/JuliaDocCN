@@ -103,7 +103,7 @@ Julia官文中文（简体）译本（**不止**）。
 - Base64
 - CRC32c
 - Dates
-- Delimited Files ?
+- 带分隔符的文件
 - 分布式计算
 - 文件事件
 - 交互式实用工具
