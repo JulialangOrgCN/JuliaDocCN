@@ -39,6 +39,10 @@ Julia官文中文（简体）译本（**不止**）。
 - [前言](./前言.md "Introduction")
 - [开发环境](./开发环境.md "DevEnv")
 
+## 未归档的
+
+- [构建Windows版本](./开发者文档/README.windows.md)
+
 ## 手册
 
 - [上手](./手册/上手.md "Getting Started")
@@ -157,7 +161,3 @@ Julia官文中文（简体）译本（**不止**）。
   - GDB调试秘诀
   - 结合Valgrind
   - 错误检测（Sanitizer）支持
-
-## 未归档的
-
-  - [构建Windows版本](./开发者文档/README.windows.md)
