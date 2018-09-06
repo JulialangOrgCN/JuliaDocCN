@@ -13,7 +13,7 @@ Julia官文中文（简体）译本（**不止**）。
 - 词汇
   - JulialangOrgCN - [朱华社区](http://julialang.org.cn/)
   - Julia - 茱莉亚（雅|娅）、祝丽、猪吏、主力
-  - 群众 - 眸子雪亮的人、码农、大家、用户
+  - 群众 - 眸子雪亮的人、码农、大家、用户、骚年
   - 栗子 - 例子、梨子、黎姿
 - 插图
   - Windows 10上Julia REPL
