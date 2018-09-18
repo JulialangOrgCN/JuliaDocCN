@@ -17,6 +17,23 @@ Julia官文中文（简体）译本（**不止**）。
   - 栗子 - 例子、梨子、黎姿
 - 插图
   - Windows 10上Julia REPL
+- 演员
+  - 秀才（xiucai）
+  - 爱丽丝（alice）
+  - 鲍波（bob）
+  - 唐寅（tangyin:yin）
+  - 唐伯虎（tangbohu:bohu）
+  - 华安（huaan）
+  - 秋香（qiuxiang）
+  - 9527（9524.0）
+  - 1314（1314.0）
+  - 250（250.0 25.0 2.5 0.25 ...）
+  - 2（2.0 0.2 ...）
+  - 旺财（wangcai）
+  - 小强（xiaoqiang）
+  - 沙比（shabi:sb）
+  - CTO（CrawlTO）
+  - 等等（人民英雄永垂不朽）
 - 资源
  - [完整演示代码](https://github.com/JulialangOrgCN/howtojulia "HowtoJulia")
 
