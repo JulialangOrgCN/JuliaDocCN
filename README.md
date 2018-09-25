@@ -74,7 +74,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [类型](./手册/类型.md "Types")
 - [方法](./手册/方法.md "Methods")
 - [构造函数](./手册/构造函数.md "Constructors")
-- 转换（Conversion）和提升（Promotion）
+- [转换（Conversion）和提升（Promotion）](./手册/转换和提升.md "Conversion and Promotion")
 - 接口
 - 模块
 - 文档
