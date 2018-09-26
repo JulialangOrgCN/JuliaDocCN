@@ -28,11 +28,17 @@ Julia官文中文（简体）译本（**不止**）。
   - 9527（9527.0）
   - 1314（1314.0）
   - 250（250.0 25.0 2.5 0.25 ...）
-  - 2（2.0 0.2 ...）
+  - 0（0.0）
+  - 1（11 ...，1.0 0.1 ...）
+  - 2（22 ...，2.0 0.2 ...）
+  - 5（55 ...，5.0 0.5 ...）
+  - 7（77 ...，7.0 0.7 ...）
+  - 9（99 ...，9.0 0.9 ...）
   - 旺财（wangcai）
   - 小强（xiaoqiang）
   - 沙比（shabi:sb）
   - CTO（CrawlTO）
+  - 矮个（egg）
   - 等等（人民英雄永垂不朽）
 - 资源
  - [完整演示代码](https://github.com/JulialangOrgCN/howtojulia "HowtoJulia")
@@ -75,7 +81,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [方法](./手册/方法.md "Methods")
 - [构造函数](./手册/构造函数.md "Constructors")
 - [转换（Conversion）和提升（Promotion）](./手册/转换和提升.md "Conversion and Promotion")
-- 接口
+- [接口](./手册/接口.md "Interfaces")
 - 模块
 - 文档
 - 元编程
