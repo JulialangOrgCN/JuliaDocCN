@@ -3,6 +3,8 @@ Julia官文中文（简体）译本（**不止**）。
 
 **It is never too late to start right now.**
 
+[Julia v1.0中文（简体）翻译贡献须知](./翻译贡献须知.md)
+
 ## 约定
 
 - 符号
@@ -83,7 +85,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [转换（Conversion）和提升（Promotion）](./手册/转换和提升.md "Conversion and Promotion")
 - [接口](./手册/接口.md "Interfaces")
 - [模块](./手册/模块.md "Modules")
-- 文档
+- [文档](./手册/文档.md "Documentation")
 - 元编程
 - 多维数组
 - 值缺失
