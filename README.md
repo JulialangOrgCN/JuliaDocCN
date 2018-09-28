@@ -82,7 +82,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [构造函数](./手册/构造函数.md "Constructors")
 - [转换（Conversion）和提升（Promotion）](./手册/转换和提升.md "Conversion and Promotion")
 - [接口](./手册/接口.md "Interfaces")
-- 模块
+- [模块](./手册/模块.md "Modules")
 - 文档
 - 元编程
 - 多维数组
