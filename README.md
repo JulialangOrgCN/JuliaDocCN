@@ -86,7 +86,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [接口](./手册/接口.md "Interfaces")
 - [模块](./手册/模块.md "Modules")
 - [文档](./手册/文档.md "Documentation")
-- 元编程
+- [元编程](./手册/元编程.md "Metaprogramming")
 - 多维数组
 - 值缺失
 - 网络和流
