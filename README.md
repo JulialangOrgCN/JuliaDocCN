@@ -87,7 +87,7 @@ Julia官文中文（简体）译本（**不止**）。
 - [模块](./手册/模块.md "Modules")
 - [文档](./手册/文档.md "Documentation")
 - [元编程](./手册/元编程.md "Metaprogramming")
-- 多维数组
+- [多维数组](./手册/多维数组.md "Multi-dimensional Arrays")
 - 值缺失
 - 网络和流
 - 并行计算
